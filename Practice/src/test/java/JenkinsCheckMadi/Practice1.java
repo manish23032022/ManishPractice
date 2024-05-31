@@ -21,4 +21,9 @@ public class Practice1 {
    	public void DTest() {
    		  System.out.println("Changes Files  10:24");
    	}
+    
+    @Test
+   	public void ETest() {
+   		  System.out.println("Changes Files  10:28");
+   	}
 }
