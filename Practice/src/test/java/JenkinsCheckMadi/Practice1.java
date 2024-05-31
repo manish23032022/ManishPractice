@@ -14,6 +14,11 @@ public class Practice1 {
     
     @Test
    	public void CTest() {
-   		  System.out.println("Changes Files");
+   		  System.out.println("Changes Files  10:10");
+   	}
+    
+    @Test
+   	public void DTest() {
+   		  System.out.println("Changes Files  10:24");
    	}
 }
